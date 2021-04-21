@@ -14,7 +14,7 @@ Then:
 
 ## More infos
 
-* Current three version: Release v0.125.2
-* Last NPM full update: 2021-02
+* Current three version: Release v0.127.0
+* Last NPM full update: 2021-04
 * License: [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/): you can use/copy/modify any code but only without commercial intentions.
 
